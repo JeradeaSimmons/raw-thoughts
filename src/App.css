@@ -15,4 +15,11 @@
   padding: 1%;
 }
 
+.App-body {
+  background-color: black;
+  min-height: 150vh;
+  color: white;
+  
+}
+
 
