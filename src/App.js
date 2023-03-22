@@ -57,7 +57,7 @@ function App() {
           
         <div class="row d-flex justify-content-center">
           <div class="col-md-4 text-black">
-           <a href="https://docs.google.com/forms/d/1vhV4vzKYp8QXd_Tyy8slo5opL3r2lkLHYVYGRMQ3-m4/viewform?edit_requested=true"><button>
+           <a href="https://docs.google.com/forms/d/1vhV4vzKYp8QXd_Tyy8slo5opL3r2lkLHYVYGRMQ3-m4/viewform?edit_requested=true"><button class="mt-4">
               <h3>Want to be a Guest?</h3>
             </button>
             </a>
@@ -68,7 +68,24 @@ function App() {
         </div>
 
 
-
+        <div class="row d-flex justify-content-center p-2">
+              <div class="col-md-7">
+                
+                <h2>Send me a message today:</h2>
+                
+                <form action="https://getform.io/f/4646811f-4296-400b-a524-689f3b28f819" method="POST">
+                  <p><input type="text" placeholder="Name" name="Name"></input></p>
+                  <p><input type="number" placeholder="Phone Number" name="Phone Number"></input></p>
+                  <p><input type="email" placeholder="Email" name="Email"></input></p>
+                  <p><input  type="text" placeholder="Message" name="Message"></input></p>
+                  <p><button type="submit">SEND MESSAGE</button></p>
+                  <p><button type="reset">RESET FORM</button></p>
+                  
+                </form>
+              </div>
+          
+          
+            </div>
 
 
 
