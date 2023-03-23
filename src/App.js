@@ -35,7 +35,7 @@ function App() {
           <div class="col-md-7">
             <h3 class="mt-3">Everyone has a story in life and I am here to be a platform for people to be heard.
             </h3>
-            <img src="Kenzie11.jpg" alt="Kenzie" class="img-fluid mt-3"></img>
+            <img src="Kenzie11.jpg" alt="Kenzie" class="img-fluid mt-3 rounded"></img>
             
           </div>
         </div>
