@@ -78,7 +78,7 @@ function App() {
                   <p><input type="number" placeholder="Phone Number" name="Phone Number"></input></p>
                   <p><input type="email" placeholder="Email" name="Email"></input></p>
                   <p><input  type="text" placeholder="Message" name="Message"></input></p>
-                  <p><button type="submit">SEND MESSAGE</button></p>
+                  <p><button class="rounded-pill" type="submit">SEND MESSAGE</button></p>
                   <p><button type="reset">RESET FORM</button></p>
                   
                 </form>
@@ -99,7 +99,7 @@ function App() {
 
       </div>
 
-     <footer>
+     <footer className="App-footer">
       Brought to you by Raw Thoughts Podcast 2021
      </footer>
     </div>

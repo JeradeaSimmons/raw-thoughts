@@ -4,22 +4,27 @@
 
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgba(244, 244, 242, 0.808);
   max-height: 20vh;
   display: flex;
   flex-direction: row;
   align-items:last baseline;
   justify-content:space-between;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(5, 0, 0);
   padding: 1%;
 }
 
 .App-body {
-  background-color: black;
+  background-color: rgba(244, 244, 242, 0.808);
   min-height: 150vh;
-  color: white;
+  color: rgb(14, 1, 1);
   
+  
+}
+.App-footer {
+  background-color: rgba(47, 47, 42, 0.808);
+  color: white;
 }
 
 
