@@ -13,15 +13,15 @@ function App() {
      
         <div class="">
           <a class="selectable" title="Facebook Link" href="https://www.facebook.com/makenzie.tiegs208"><i
-              class="mdi mdi-facebook text-white"></i></a>
+              class="mdi mdi-facebook text-dark"></i></a>
           <a class="selectable" href="https://www.instagram.com/rawthoughts.podcast/"><i
-              class="mdi mdi-instagram text-white"></i></a>
+              class="mdi mdi-instagram text-dark"></i></a>
           <a class="selectable" href="https://linktr.ee/rawthoughts.podcast"><i
-              class="mdi mdi-link text-white"></i></a>
+              class="mdi mdi-link text-dark"></i></a>
           <a class="selectable" href="https://www.youtube.com/channel/UCIQkzGm10CBfiqaOokJWygg"><i
-              class="mdi mdi-youtube text-white"></i></a>
+              class="mdi mdi-youtube text-dark"></i></a>
           <a class="selectable" href="https://open.spotify.com/show/5Q324MLEVXPUMk6JnaNgXa"><i
-              class="mdi mdi-spotify text-white"></i></a>
+              class="mdi mdi-spotify text-dark"></i></a>
           </div>
         
       
