@@ -4,7 +4,7 @@
 
 
 .App-header {
-  background-color: rgba(244, 244, 242, 0.808);
+  background-color: rgba(157, 157, 157, 0.808);
   max-height: 20vh;
   display: flex;
   flex-direction: row;
@@ -16,7 +16,7 @@
 }
 
 .App-body {
-  background-color: rgba(244, 244, 242, 0.808);
+  background-color: rgb(253, 253, 251);
   min-height: 150vh;
   color: rgb(14, 1, 1);
   
