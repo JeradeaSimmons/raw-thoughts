@@ -35,7 +35,19 @@ function App() {
           <div class="col-md-7">
             <h3 class="mt-3">Everyone has a story in life and I am here to be a platform for people to be heard.
             </h3>
-            <img src="Kenzie11.jpg" alt="Kenzie" class="img-fluid mt-3 rounded"></img>
+            
+            <div class="row d-flex justify-content-evenly">
+              <div class="col-md-5">
+               <img src="Kenzie11.jpg" alt="Kenzie" class="img-fluid mt-3 rounded"></img> 
+              </div>
+              <div class="col-md-5">
+              <iframe 
+            src="https://open.spotify.com/embed/show/5Q324MLEVXPUMk6JnaNgXa?utm_source=generator&theme=0" width="100%" height="100%" title="Spotify"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+              </div>
+            </div>
+            
+            
             
           </div>
         </div>
@@ -69,7 +81,14 @@ function App() {
 
 
         <div class="row d-flex justify-content-center p-2">
-              <div class="col-md-7">
+          <div class="col-md-4">
+          
+            
+            reviews
+         
+
+          </div>
+              <div class="col-md-4">
                 
                 <h2>Send me a message today:</h2>
                 
