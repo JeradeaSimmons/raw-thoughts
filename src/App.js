@@ -1,7 +1,16 @@
 
 import './App.css';
 
+
+
+
+
 function App() {
+
+  
+
+
+
   return (
     <div className="App">
       <header className="App-header">
@@ -22,9 +31,8 @@ function App() {
           <a class="selectable" href="https://open.spotify.com/show/5Q324MLEVXPUMk6JnaNgXa"><i
               class="mdi mdi-spotify text-dark"></i></a>
               
-              <button onclick="document.getElementById('guests').style.display='block'" class="button rounded-pill text-black">
-              <h3>Guest Links</h3>
-            </button>
+              
+      
 
           </div>
         
