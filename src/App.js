@@ -104,18 +104,7 @@ function App() {
           
           
             </div>
-
-
-
-
-
-
-
-
-
-
-
-      </div>
+</div>
       
 
      <footer className="App-footer">
