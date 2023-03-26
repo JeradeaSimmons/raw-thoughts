@@ -10,7 +10,6 @@ function App() {
           RAW THOUGHTS PODCAST
         </p>
         </div>
-     
         <div class="">
           <a class="selectable" title="Facebook Link" href="https://www.facebook.com/makenzie.tiegs208"><i
               class="mdi mdi-facebook text-dark"></i></a>
@@ -22,6 +21,11 @@ function App() {
               class="mdi mdi-youtube text-dark"></i></a>
           <a class="selectable" href="https://open.spotify.com/show/5Q324MLEVXPUMk6JnaNgXa"><i
               class="mdi mdi-spotify text-dark"></i></a>
+              
+              <button onclick="document.getElementById('guests').style.display='block'" class="button rounded-pill text-black">
+              <h3>Guest Links</h3>
+            </button>
+
           </div>
         
       
@@ -112,11 +116,17 @@ function App() {
 
 
       </div>
+      
 
      <footer className="App-footer">
       Brought to you by Raw Thoughts Podcast 2021
      </footer>
+
+
+     
     </div>
+
+    
   );
 }
 
